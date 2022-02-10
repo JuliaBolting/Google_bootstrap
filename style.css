@@ -1,7 +1,7 @@
 body {
     background-color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border-color: #222e57;
+    border-color: #ffffff;
     border-style: groove;
     border-width: 3px;
     margin: 7px;
@@ -25,4 +25,27 @@ body {
     line-height: 45px;
     font-size: 20px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+}
+
+.button {
+    width: min-content;
+    height: min-content;
+}
+
+.img {
+    padding-top: 10px;
+}
+
+.form {
+    padding: 10%;
+    margin-top: 5cm;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.btn-light {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
